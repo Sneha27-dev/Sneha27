@@ -23,21 +23,24 @@
 ---
 
 ## 💼 Projects  
+   
+🔹 [Web App Deployment on AWS (Wild Rydes)](#): 
+    Deployed a serverless web application on AWS using cloud-native services for scalability and reliability. 
+     
 🔹 [Deep Learning-Based Predictive Analysis with Real-Time Alerts](#)  
- Developing a deep learning system to predict accidents in real time with overtaking assistance solutions.
+    Developing a deep learning system to predict accidents in real time with overtaking assistance solutions.
 
 🔹 [Recipe Sharing Web App](#)  
-Full-stack app for sharing and managing recipes..  
+    Full-stack app for sharing and managing recipes..  
 
 🔹 [PetCare Chatbot](#)  
-Simple AI chatbot built using HTML, CSS and JavaScript.  
+    Simple AI chatbot built using HTML, CSS and JavaScript.  
 
 ---
 
 ## 📜 Certifications  
 - Building Modern Web Applications with MERN Stack – **EY GDS x AICTE**  
-- Data Structures and Algorithm Using Java - **NPTEL**
-- Web Development Fundamentals – **AICTE Internship Program**  
+- Data Structures and Algorithm Using Java - **NPTEL** 
 
 ---
 
