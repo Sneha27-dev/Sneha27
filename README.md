@@ -1,54 +1,56 @@
 # 👋 Hi, I'm Sneha  
 
-🎓 Final-year Information Science Engineering Student at **Vivekananda Institute of Technology**  
-💡 Passionate about **Java, Web Development and AI**  
-💻 Love building smart, real-time, and user-friendly tech solutions  
+🎓 Final-year Information Science Engineering Student  
+📊 Aspiring Data Analyst | Passionate about Data, AI & Real-Time Solutions  
+💻 Skilled in transforming data into meaningful insights  
 
 ---
 
 ## 🚀 About Me  
-- 🌱 Currently learning: **MERN Stack & Cloud Concepts**  
-- 🎯 Goal: To become a Skilled Software Engineer 
-- 💬 Ask me about **Java, Web Dev and AI**
-- 🌍 I enjoy learning new tools and exploring real-world tech problems.  
+- 🌱 Currently working on **Data Analysis & Visualization projects**  
+- 🎯 Goal: To become a Data Analyst and build impactful data-driven solutions  
+- 💬 Ask me about **Excel, SQL, Python, Power BI, and AI Projects**  
+- 📊 Interested in solving real-world problems using data  
 
 ---
 
 ## 🧰 Tech & Tools  
-🖥️ **Languages:** Java, JavaScript, HTML, CSS  
-⚙️ **Frameworks:** React.js, Node.js, Express.js  
-🗄️ **Database:** MongoDB  
-🧩 **Others:** Git, GitHub, VS Code and Power BI
+
+📊 **Data Skills:** Excel, SQL, Python, Power BI  
+🖥️ **Programming:** JavaScript, HTML, CSS  
+⚙️ **Tools:** Git, GitHub, VS Code  
 
 ---
 
 ## 💼 Projects  
-   
-🔹 [Web App Deployment on AWS (Wild Rydes)](#): 
-    Deployed a serverless web application on AWS using cloud-native services for scalability and reliability. 
-     
-🔹 [Deep Learning-Based Predictive Analysis with Real-Time Alerts](#)  
-    Developing a deep learning system to predict accidents in real time with overtaking assistance solutions.
 
-🔹 [Recipe Sharing Web App](#)  
-    Full-stack app for sharing and managing recipes..  
+🔹 **Data Analysis Dashboard (Excel + SQL + Power BI)**  
+Performed EDA, cleaned datasets, and built interactive dashboards to generate insights  
 
-🔹 [PetCare Chatbot](#)  
-    Simple AI chatbot built using HTML, CSS and JavaScript.  
+🔹 **Accident Predictive Analysis & Overtaking Alerts**  
+Developed a deep learning-based system using Python, CNN, and YOLO for real-time accident prediction  
+
+🔹 **AWS Wild Rydes (Serverless Application)**  
+Built a scalable application using AWS Lambda, API Gateway, DynamoDB, and S3  
+
+🔹 **Recipe Sharing Web App**  
+Developed a full-stack web application for sharing and managing recipes  
 
 ---
 
 ## 📜 Certifications  
+
 - Building Modern Web Applications with MERN Stack – **EY GDS x AICTE**  
-- Data Structures and Algorithm Using Java - **NPTEL** 
+- Data Structures and Algorithms Using Java – **NPTEL**  
 
 ---
 
 ## 📫 Connect with Me  
-🌐 **LinkedIn:** [Sneha Ganiga](https://www.linkedin.com/in/sneha-ganiga-557181312)  
-💻 **GitHub:** [snehaaaaaaaa262](https://github.com/snehaaaaaaaa262)  
+
+🌐 **LinkedIn:** https://www.linkedin.com/in/sneha-ganiga-557181312  
+💻 **GitHub:** https://github.com/Sneha27-dev  
 ✉️ **Email:** snehaganiga1527@gmail.com  
 
 ---
 
-⭐ *“Code. Create. Learn. Repeat.”*
+⭐ *“Turning Data into Insights, and Ideas into Reality.”*  
