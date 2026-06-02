@@ -23,7 +23,6 @@ Information Science and Engineering student (CGPA: 8.96) with hands-on experienc
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
@@ -72,13 +71,6 @@ Analyzed sales data to identify trends and top-performing products; built intera
 ## 🎓 Education
 
 **B.E. in Information Science and Engineering** — Vivekananda Institute of Technology, Bangalore *(2022 – 2026)* | CGPA: 8.96
-
----
-
-## 📊 GitHub Stats
-
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha27-dev&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha27-dev&layout=compact&hide_border=true)
 
 ---
 
