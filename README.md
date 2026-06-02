@@ -1,25 +1,33 @@
-# 👋 Hi, I'm Sneha  
+# 👋 Hi, I'm Sneha
 
 📍 Bangalore, India &nbsp;|&nbsp; 📧 snehaganiga1527@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sneha-ganiga-557181312) &nbsp;|&nbsp; [GitHub](https://github.com/Sneha27-dev)
+
+🔍 **Open to Data Analyst & Software Development roles**
 
 ---
 
 ## About Me
 
-Final-year Information Science and Engineering student (CGPA: 8.96) with hands-on experience in data analytics, Android app development, and web development through internships. I enjoy turning raw data into meaningful insights and building solutions that solve real-world problems.
+Information Science and Engineering student (CGPA: 8.96) with hands-on experience in data analytics, Android app development, and web development through internships. I enjoy turning raw data into meaningful insights and building solutions that solve real-world problems.
 
 ---
 
-## Technical Skills
+## 🛠️ Tech Stack
 
-- **Languages:** Python, SQL, Kotlin, HTML, CSS
-- **Data & Analytics:** Excel, Power BI, Exploratory Data Analysis
-- **Frameworks & Libraries:** Jetpack Compose, CNN, YOLO
-- **Tools:** VS Code, GitHub
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
 ---
 
-## Internship Experience
+## 💼 Internship Experience
 
 **Android App Development using Gen AI Intern — MindMatrix** *(May 2026)*
 Developed Android applications integrating Generative AI for real-time functionality.
@@ -32,7 +40,7 @@ Built responsive web applications using the MERN stack and RESTful APIs.
 
 ---
 
-## Projects
+## 🚀 Projects
 
 **AWS Wild Rydes — Serverless Ride Request System**
 `AWS Lambda · API Gateway · DynamoDB · S3`
@@ -52,7 +60,7 @@ Analyzed sales data to identify trends and top-performing products; built intera
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 - Building Modern Web Applications with MERN Stack — Edunet Foundation
 - Data Structures and Algorithms Using Java — NPTEL
@@ -61,17 +69,25 @@ Analyzed sales data to identify trends and top-performing products; built intera
 
 ---
 
-## Education
+## 🎓 Education
 
 **B.E. in Information Science and Engineering** — Vivekananda Institute of Technology, Bangalore *(2022 – 2026)* | CGPA: 8.96
 
 ---
-## 📫 Connect with Me  
 
-🌐 **LinkedIn:** https://www.linkedin.com/in/sneha-ganiga-557181312  
-💻 **GitHub:** https://github.com/Sneha27-dev  
-✉️ **Email:** snehaganiga1527@gmail.com  
+## 📊 GitHub Stats
+
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha27-dev&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sneha27-dev&layout=compact&hide_border=true)
 
 ---
 
-⭐ *“Turning Data into Insights, and Ideas into Reality.”*  
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sneha-ganiga-557181312)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sneha27-dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:snehaganiga1527@gmail.com)
+
+---
+
+⭐ *"Turning Data into Insights, and Ideas into Reality."*
