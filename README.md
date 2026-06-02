@@ -1,50 +1,71 @@
 # 👋 Hi, I'm Sneha  
 
-🎓 Final-year Information Science Engineering Student  
-📊 Aspiring Data Analyst | Passionate about Data, AI & Real-Time Solutions  
-💻 Skilled in transforming data into meaningful insights  
+📍 Bangalore, India &nbsp;|&nbsp; 📧 snehaganiga1527@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sneha-ganiga-557181312) &nbsp;|&nbsp; [GitHub](https://github.com/Sneha27-dev)
 
 ---
 
-## 🚀 About Me  
-- 🌱 Currently working on **Data Analysis & Visualization projects**  
-- 🎯 Goal: To become a Data Analyst and build impactful data-driven solutions  
-- 💬 Ask me about **Excel, SQL, Python, Power BI, and AI Projects**  
-- 📊 Interested in solving real-world problems using data  
+## About Me
+
+Final-year Information Science and Engineering student (CGPA: 8.96) with hands-on experience in data analytics, Android app development, and web development through internships. I enjoy turning raw data into meaningful insights and building solutions that solve real-world problems.
 
 ---
 
-## 🧰 Tech & Tools  
+## Technical Skills
 
-📊 **Data Skills:** Excel, SQL, Python, Power BI  
-🖥️ **Programming:** JavaScript, HTML, CSS  
-⚙️ **Tools:** Git, GitHub, VS Code  
-
----
-
-## 💼 Projects  
-
-🔹 **Data Analysis Dashboard (Excel + SQL + Power BI)**  
-Performed EDA, cleaned datasets, and built interactive dashboards to generate insights  
-
-🔹 **Accident Predictive Analysis & Overtaking Alerts**  
-Developed a deep learning-based system using Python, CNN, and YOLO for real-time accident prediction  
-
-🔹 **AWS Wild Rydes (Serverless Application)**  
-Built a scalable application using AWS Lambda, API Gateway, DynamoDB, and S3  
-
-🔹 **Recipe Sharing Web App**  
-Developed a full-stack web application for sharing and managing recipes  
+- **Languages:** Python, SQL, Kotlin, HTML, CSS
+- **Data & Analytics:** Excel, Power BI, Exploratory Data Analysis
+- **Frameworks & Libraries:** Jetpack Compose, CNN, YOLO
+- **Tools:** VS Code, GitHub
 
 ---
 
-## 📜 Certifications  
+## Internship Experience
 
-- Building Modern Web Applications with MERN Stack – **EY GDS x AICTE**  
-- Data Structures and Algorithms Using Java – **NPTEL**  
+**Android App Development using Gen AI Intern — MindMatrix** *(May 2026)*
+Developed Android applications integrating Generative AI for real-time functionality.
+
+**Data Analyst Intern — Innobyte Services** *(Apr 2026)*
+Performed EDA using Excel and SQL; built interactive Power BI dashboards for business insights.
+
+**Web Development Intern — Edunet Foundation** *(Apr 2025)*
+Built responsive web applications using the MERN stack and RESTful APIs.
 
 ---
 
+## Projects
+
+**AWS Wild Rydes — Serverless Ride Request System**
+`AWS Lambda · API Gateway · DynamoDB · S3`
+Architected a scalable, serverless ride request platform with real-time data processing and secure authentication.
+
+**Accident Predictive Analysis with Real-Time Alert & Overtaking Assistance**
+`Python · CNN · YOLO`
+Deep learning-based driver assistance system for real-time accident prediction, object detection, and smart collision alerts.
+
+**Pratham-Chikitse — Emergency First-Aid Android App**
+`Kotlin · Jetpack Compose`
+Offline first-aid app with Text-to-Speech guidance covering critical emergencies like burns, choking, and snakebites.
+
+**Amazon Sales Analysis**
+`Power BI · Excel`
+Analyzed sales data to identify trends and top-performing products; built interactive dashboards for actionable insights.
+
+---
+
+## Certifications
+
+- Building Modern Web Applications with MERN Stack — Edunet Foundation
+- Data Structures and Algorithms Using Java — NPTEL
+- Data Analyst Internship Certificate — Innobyte Services
+- Android App Development using Generative AI — MindMatrix
+
+---
+
+## Education
+
+**B.E. in Information Science and Engineering** — Vivekananda Institute of Technology, Bangalore *(2022 – 2026)* | CGPA: 8.96
+
+---
 ## 📫 Connect with Me  
 
 🌐 **LinkedIn:** https://www.linkedin.com/in/sneha-ganiga-557181312  
