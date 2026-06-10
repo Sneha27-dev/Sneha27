@@ -2,19 +2,18 @@
 
 📍 Bangalore, India &nbsp;|&nbsp; 📧 snehaganiga1527@gmail.com &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/sneha-ganiga-557181312) &nbsp;|&nbsp; [GitHub](https://github.com/Sneha27-dev)
 
-🔍 **Open to Data Analyst & Software Development roles**
+🔍 **Open to Data Analyst, Frontend Developer & Software Development roles**
 
 ---
 
 ## About Me
 
-Information Science and Engineering student (CGPA: 8.96) with hands-on experience in data analytics, Android app development, and web development through internships. I enjoy turning raw data into meaningful insights and building solutions that solve real-world problems.
+Information Science and Engineering student (CGPA: 9.02) with hands-on experience in data analytics, Android app development, and web development through internships. I enjoy turning raw data into meaningful insights and building solutions that solve real-world problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
@@ -70,7 +69,8 @@ Analyzed sales data to identify trends and top-performing products; built intera
 
 ## 🎓 Education
 
-**B.E. in Information Science and Engineering** — Vivekananda Institute of Technology, Bangalore *(2022 – 2026)* | CGPA: 8.96
+**B.E. in Information Science and Engineering** — Vivekananda Institute of Technology, Bangalore *(2022 – 2026)* | CGPA: 9.02
+
 
 ---
 
